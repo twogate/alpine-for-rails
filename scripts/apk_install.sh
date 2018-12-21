@@ -9,4 +9,5 @@ apk --update --no-cache add \
   postgresql-dev \
   nodejs \
   tzdata \
-  less
+  less \
+  libidn-dev
