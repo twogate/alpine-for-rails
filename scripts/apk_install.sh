@@ -10,4 +10,5 @@ apk --update --no-cache add \
   nodejs \
   tzdata \
   less \
-  libidn-dev
+  libidn-dev \
+  yarn
