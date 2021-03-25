@@ -7,6 +7,7 @@ apk --update --no-cache add \
   libxslt-dev \
   postgresql-client \
   postgresql-dev \
+  shared-mime-info \
   nodejs \
   yarn \
   tzdata \
